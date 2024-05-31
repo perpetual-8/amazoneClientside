@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from "react";
+import  { useState, useEffect, useContext } from "react";
 import "./ProductPaga.css";
 import StarIcon from '@mui/icons-material/Star';
 import { ProductDetail, WatchDetail, LaptopDetail, headphonesDetail } from "../Details/ProductDetail";
